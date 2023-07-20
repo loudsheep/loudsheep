@@ -30,9 +30,9 @@ Did you know that I'm a big fan of Formula 1? 🏎️ I enjoy following the thri
 
 ## 💻 My Tech Stack
 
-- Programming Languages: Java ☕️, C# ⚙️, PHP 🚀
+- Programming Languages: Java ☕️, C# ⚙️, PHP 🚀, Python 🐍
 - Front-end Development: HTML, CSS, JavaScript (including React.js ⚛️)
-- Back-end Development: Node.js 🚀, PHP (Laravel) 🚀
+- Back-end Development: Node.js 🚀, Laravel ⚙️, Flask 🚀
 - Databases: MySQL 🐬
 - Version Control: Git 🌳
 
