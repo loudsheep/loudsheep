@@ -4,7 +4,7 @@ I'm an 18-year-old developer from Poland 🇵🇱 with a passion for coding and 
 
 ## 🔭 What I'm Currently Working On
 
-I'm currently focused on honing my skills in full-stack development. I'm working on projects that involve Java ☕️, C# ⚙️, and PHP with Laravel 🚀. Additionally, I'm diving into the world of React.js ⚛️ and Node.js 🚀 to become a fullstack developer.
+I'm currently focused on honing my skills in full-stack development. I'm working on projects that involve Java ☕️, C# ⚙️, Python 🐍, and PHP with Laravel 🚀. Additionally, I'm diving into the world of React.js ⚛️ and Node.js 🚀 to become a fullstack developer.
 
 ## 🌱 What I'm Learning
 
@@ -21,8 +21,8 @@ I'm enthusiastic about various topics, including:
 
 - Artificial Intelligence and machine learning 🤖
 - Open-source projects and collaborations 🌍
-- Networking and servers 🖥️
-- Working with databases, particularly MySQL 🗃️
+- Computer networks 🖥️
+- Working with server, particularly Linux 🐧
 
 ## 🏎️ Fun Fact: F1 Enthusiast
 
