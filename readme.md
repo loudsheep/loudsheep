@@ -41,7 +41,7 @@ Did you know that I'm a big fan of Formula 1? 🏎️ I enjoy following the thri
 Feel free to connect with me or explore more of my work on other platforms:
 
 - E-mail: loudsheep05@gmail.com
-- [Fiverr profile](https://www.fiverr.com/loud_sheep)
+- Fiverr: [@loud_sheep](https://www.fiverr.com/loud_sheep)
 
 ## 🌟 Another Fun Fact
 
