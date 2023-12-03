@@ -4,15 +4,16 @@ I'm an 18-year-old developer from Poland 🇵🇱 with a passion for coding and 
 
 ## 🔭 What I'm Currently Working On
 
-I'm currently focused on honing my skills in full-stack development. I'm working on projects that involve Java ☕️, C# ⚙️, Python 🐍, and PHP with Laravel 🚀. Additionally, I'm diving into the world of React.js ⚛️ and Node.js 🚀 to become a fullstack developer.
+I'm currently focused on honing my skills in full-stack development. I'm working on projects that involve Java ☕️, C# ⚙️, Python 🐍, and PHP with Laravel 🚀. Additionally, I'm diving into the world of React.js ⚛️, Next.js 🌐, MongoDB 🍃, and Node.js 🚀 to become a fullstack developer.
 
 ## 🌱 What I'm Learning
 
 I'm always eager to learn new technologies and improve my existing skills. Currently, I'm focusing on:
 
-- React.js ⚛️ for building dynamic and interactive user interfaces
+- React.js ⚛️ and Next.js 🌐 for building dynamic and interactive user interfaces
 - Node.js 🚀 for server-side JavaScript development
 - MySQL 🐬 for database management
+- MongoDB 🍃 for modern and scalable database management
 - Git 🌳 for version control and collaboration
 
 ## 💡 What I'm Interested In
@@ -22,7 +23,7 @@ I'm enthusiastic about various topics, including:
 - Artificial Intelligence and machine learning 🤖
 - Open-source projects and collaborations 🌍
 - Computer networks 🖥️
-- Working with server, particularly Linux 🐧
+- Working with servers, particularly Linux 🐧
 
 ## 🏎️ Fun Fact: F1 Enthusiast
 
@@ -31,9 +32,9 @@ Did you know that I'm a big fan of Formula 1? 🏎️ I enjoy following the thri
 ## 💻 My Tech Stack
 
 - Programming Languages: Java ☕️, C# ⚙️, PHP 🚀, Python 🐍
-- Front-end Development: HTML, CSS, JavaScript (including React.js ⚛️)
+- Front-end Development: HTML, CSS, JavaScript (including React.js ⚛️ and Next.js 🌐)
 - Back-end Development: Node.js 🚀, Laravel ⚙️, Flask 🚀
-- Databases: MySQL 🐬
+- Databases: MySQL 🐬, MongoDB 🍃
 - Version Control: Git 🌳
 
 ## 📫 How to Reach Me
