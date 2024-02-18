@@ -1,6 +1,6 @@
 # Hello, I'm Roch! 👋
 
-I'm an 18-year-old developer from Poland 🇵🇱 with a passion for coding and creating innovative solutions. Welcome to my GitHub profile! Here, you'll find a collection of my projects and contributions.
+I'm an 19-year-old developer from Poland 🇵🇱 with a passion for coding and creating innovative solutions. Welcome to my GitHub profile! Here, you'll find a collection of my projects and contributions.
 
 ## 🔭 What I'm Currently Working On
 
