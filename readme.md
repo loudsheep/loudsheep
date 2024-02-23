@@ -43,7 +43,7 @@ Feel free to connect with me or explore more of my work on other platforms:
 ## 🌟 Fun Facts 🏎️
 
 - I'm a big fan of Formula 1 🏎️, I enjoy following the thrilling races and the technological advancements in the world of motorsports.
-- I am a certified forklif operator 🦺.
+- I am a certified forklift operator 🦺.
 - I love exploring nature and taking long hikes 🌲. It's a great way for me to recharge and find inspiration outside of coding!
 
 Thanks for visiting my GitHub profile. I hope you find something interesting here! 😄
